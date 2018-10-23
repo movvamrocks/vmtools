@@ -10,3 +10,4 @@ cd vmware-tools-distrib
 cd /tmp
 rm -r VM* vm*
 
+/etc/vmware-tools/services.sh restart
