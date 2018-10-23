@@ -11,3 +11,7 @@ cd /tmp
 rm -r VM* vm*
 
 /etc/vmware-tools/services.sh restart
+
+#For ubuntu16 and above
+#apt-get install open-vm-tools
+#service open-vm-tools status
